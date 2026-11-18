@@ -24,6 +24,7 @@ judged, and how to submit your own work and get paid in USDC on Solana when you 
 - [Step 5: Bundle your transcripts and check everything](#step-5-bundle-your-transcripts-and-check-everything)
 - [Step 6: Submit, read the verdict, fix and resubmit](#step-6-submit-read-the-verdict-fix-and-resubmit)
 - [Step 7: Claim a prize](#step-7-claim-a-prize)
+- [A realistic first-week plan](#a-realistic-first-week-plan)
 - [Hand the whole job to your agent](#hand-the-whole-job-to-your-agent)
 - [Share your own referral link](#share-your-own-referral-link)
 - [Common beginner mistakes](#common-beginner-mistakes)
@@ -117,6 +118,13 @@ attempt.
 
 ## Step 6: Submit, read the verdict, fix and resubmit
 
+One special case is worth naming, because this guide is itself an example: guide and repository bounties are
+submitted as a **GitHub repository URL plus a commit**, not as an uploaded folder. Publish the repository
+first, take the screenshot of its live GitHub page only after it is public (a screenshot of a page nobody can
+visit proves nothing), commit that screenshot, and only then submit the final commit. The repository must
+stay public, under the same linked GitHub account, with your referral code still in its README, until the
+final re-check reads it again after the deadline.
+
 Submit through the CLI (or the route your kit names) and read the entry's status page afterwards. An accepted
 entry shows its stage as checked; a refused one names each failed check and its fix. Refusals are not the end:
 most bounties allow several submissions per day, and your **last** accepted submission before the deadline is
@@ -133,6 +141,29 @@ Results are published after the final checks finish. If you placed:
   threshold, and every claim is screened against the sanctions list.
 
 Prizes are paid in USDC on Solana, gross; any tax on them is yours to handle where you live.
+
+## A realistic first-week plan
+
+Newcomers often ask how long a first entry actually takes. For a small bounty, a sane week looks like this:
+
+| Day | Session goal | Done when |
+|---|---|---|
+| 1 | Read three bounty pages end to end and pick one | You can say the deliverable, the deadline and the prize split out loud without looking |
+| 2 | Unpack the kit, read the rules, start a fresh agent session after the opening | The session's first message is your own request for that bounty, in your own words |
+| 3 | Draft the whole entry, however rough | Every required file exists and the thing runs or reads end to end |
+| 4 | Revise against the rules, line by line | Each requirement in the kit maps to something concrete in your entry |
+| 5 | Bundle the transcripts and run the local check | The check passes, or its remaining failures are written down with a fix each |
+| 6 | Submit, read the server verdict, fix and resubmit | The entry's stage reads as checked |
+| 7 | Buffer day | Nothing left to do — which is exactly what a buffer is for |
+
+Two lessons hide in that table. First, the draft belongs early: most transcript and format problems only
+surface once a real file exists, and they are cheap to fix on day 3 and expensive on deadline day. Second,
+the buffer day is not laziness. Bounty deadlines are fixed, servers get busy near them, and the entrants who
+place are usually the ones whose second submission — the calm, corrected one — is their final entry.
+
+If your bounty is shorter than a week (this one runs three days), compress the same shape: read and pick in
+the first sitting, draft in the second, revise, check and submit in the third, and keep the last hours empty
+for whatever the server verdict teaches you.
 
 ## Hand the whole job to your agent
 
